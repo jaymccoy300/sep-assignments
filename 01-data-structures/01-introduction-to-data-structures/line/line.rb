@@ -39,6 +39,7 @@ class Line
   private
 
   def index(person)
+    members.index(person)
   end
 
 end

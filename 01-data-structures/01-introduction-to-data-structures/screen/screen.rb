@@ -29,7 +29,6 @@ class Screen
     is_valid = true
     if (x < 0 || x > width) || (y < 0 || y > height)
       is_valid = false
-      return nil
     end
     return is_valid
   end

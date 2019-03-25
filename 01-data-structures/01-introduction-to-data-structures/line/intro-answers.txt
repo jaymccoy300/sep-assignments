@@ -1,0 +1,11 @@
+1. How does your data structure allow developers to access and manipulate the data?
+
+since the array can be used as a data structure, its how my answes are structured, they permit the developer to have access to the data locally and the the ability to determine whats in the due to the index fuction.
+
+2. if a developer wanted to find a specific element in your data structure, how would you search for it?
+
+He could print all the data from the array or he could use the search function, altough it would require the name of the "person", also, we have the index function to further determine the position of that element.
+
+3. What other real-world data can each structure represent?
+
+It could be a grocery line, were each customer has a set of diffrent elements.
